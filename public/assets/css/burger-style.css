@@ -1,0 +1,60 @@
+body {
+    font-family: 'Sans serif', cursive;
+    color: black;
+    width: 100%;
+    /* background-image: url('../img/burger-background.png'); */
+    background-repeat: no-repeat;
+    /* background-size: cover;  */
+}
+
+div::after {
+    content: "";
+    background: url("../img/burger-background.png");
+    background-repeat: no-repeat;
+    Background-size: cover;
+    opacity: 0.4;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+#available {
+    float: left;
+    margin-right: 6%;
+    margin-left: 7%;
+}
+
+#devoured {
+    float: left;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#create {
+    clear: both;
+    margin-left: 25%;
+}
+
+#devour-btn {
+    background-color: #c1761a;
+    color: white;
+}
+
+#create-btn {
+    background-color: forestgreen;
+   margin-left: 10%
+}
