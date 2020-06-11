@@ -1,29 +1,28 @@
 {
-    "name": "burger",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/cheryld433/burger.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/cheryld433/burger/issues"
-    },
-    "homepage": "https://github.com/cheryld433/burger#readme",
-    "dependencies": {
-      "express": "^4.17.1",
-      "express-handlebars": "^4.0.4",
-      "method": "^2.0.0",
-      "method-override": "^3.0.0",
-      "mysql": "^2.18.1",
-      "override": "0.0.1"
-    }
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheryld433/eat-da-burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheryld433/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/cheryld433/eat-da-burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "method": "^2.0.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "override": "0.0.1"
   }
-  
+}
