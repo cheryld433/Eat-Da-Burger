@@ -27,7 +27,7 @@ Express
 Handlebars
 
 ## Usage:
-![](demo.gif)
+![demo](assets/demo.gif)
 
 
 ## Contributors:
